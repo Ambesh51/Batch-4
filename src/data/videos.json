@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Vedic Astrology",
+    "description": "Replace this description, then paste an 11-character YouTube ID into youtubeId. Unlisted videos work the same way: use the ID from the unlisted link.",
+    "youtubeId": "YOUR_YOUTUBE_VIDEO_ID",
+    "url": "",
+    "embedUrl": "",
+    "thumbnail": "/images/gallery/seminar.svg"
+  },
+  {
+    "id": 2,
+    "title": "How a consultation begins",
+    "description": "You can paste a full YouTube URL into url instead of an ID. Example shape: https://www.youtube.com/watch?v=VIDEO_ID",
+    "youtubeId": "",
+    "url": "https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID",
+    "embedUrl": "",
+    "thumbnail": "/images/gallery/consultation.svg"
+  },
+  {
+    "id": 3,
+    "title": "A note on the birth chart",
+    "description": "If you already have an embed URL, put it in embedUrl. YouTube and Vimeo embed links are supported. Do not upload video files into this project.",
+    "youtubeId": "",
+    "url": "",
+    "embedUrl": "",
+    "thumbnail": "/images/gallery/chart.svg"
+  },
+  {
+    "id": 4,
+    "title": "Questions worth bringing",
+    "description": "Thumbnail is optional. When a real YouTube ID is set and thumbnail is left blank, the YouTube thumbnail is used.",
+    "youtubeId": "YOUR_YOUTUBE_VIDEO_ID",
+    "url": "",
+    "embedUrl": "",
+    "thumbnail": "/images/gallery/study.svg"
+  }
+]

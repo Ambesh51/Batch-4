@@ -1,0 +1,149 @@
+{
+  "disclaimer": "General illustrative content, not a personalized prediction. The date ranges follow the popular tropical sun-sign calendar. A Vedic consultation uses the sidereal zodiac and the whole birth chart. These notes are sample writing for the layout.",
+  "signs": [
+    {
+      "id": "aries",
+      "name": "Aries",
+      "symbol": "♈",
+      "dates": "Mar 21 – Apr 19",
+      "element": "Fire",
+      "modality": "Cardinal",
+      "description": "Aries is the sign of beginnings. In general writing it is associated with initiative, candour, and a dislike of waiting. Treat this as a sketch of the sign, not a description of any person.",
+      "daily": "The illustrative note for today is about pace. Starting is the familiar strength. Leaving a little room before the next decision is the quieter one.",
+      "weekly": "This sample week asks for a look at where urgency is useful and where it is only noise. A point made once, clearly, travels further than a point made three times.",
+      "monthly": "The sample month favours finishing something already started. New plans can wait until the current one has a shape you can describe."
+    },
+    {
+      "id": "taurus",
+      "name": "Taurus",
+      "symbol": "♉",
+      "dates": "Apr 20 – May 20",
+      "element": "Earth",
+      "modality": "Fixed",
+      "description": "Taurus is associated with steadiness, the senses, and a preference for what can be relied on. People are more than a sun-sign sentence.",
+      "daily": "A useful illustrative theme is patience with the body and the schedule. A simple routine counts more, today, than a dramatic change.",
+      "weekly": "The sample week favours maintenance: money, home, and the work already in hand. A slow yes is still a yes.",
+      "monthly": "Over a sample month, the theme is protecting what is already working. Review a commitment before adding another."
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "symbol": "♊",
+      "dates": "May 21 – Jun 20",
+      "element": "Air",
+      "modality": "Mutable",
+      "description": "Gemini is associated with curiosity, speech, and moving between ideas. A birth chart shows much more than this sketch.",
+      "daily": "Ask one real question and stay for the answer, rather than collecting five questions and answering none of them.",
+      "weekly": "Writing, messages, and short journeys are the sample themes. Not every thought needs to be sent on the day it arrives.",
+      "monthly": "The sample month rewards a single subject studied properly. Breadth can return after that subject has been given a fair hour."
+    },
+    {
+      "id": "cancer",
+      "name": "Cancer",
+      "symbol": "♋",
+      "dates": "Jun 21 – Jul 22",
+      "element": "Water",
+      "modality": "Cardinal",
+      "description": "Cancer is associated with home, memory, and care. The sign is often described as protective, sometimes to the point of retreat.",
+      "daily": "An illustrative theme is a private conversation that does not need an audience. Offer care without taking the decision over.",
+      "weekly": "Family questions may ask for a boundary as well as warmth. The two can sit in the same sentence.",
+      "monthly": "The sample month is for settling a domestic matter in practical terms: time, space, or a decision that has been postponed."
+    },
+    {
+      "id": "leo",
+      "name": "Leo",
+      "symbol": "♌",
+      "dates": "Jul 23 – Aug 22",
+      "element": "Fire",
+      "modality": "Fixed",
+      "description": "Leo is associated with visibility, loyalty, and a wish to be met honestly. At its best, pride is simply care for one's word.",
+      "daily": "Let recognition be a side effect of doing the thing well. The sample note is about the work, not the applause.",
+      "weekly": "Creative work and questions of leadership sit in the foreground. If other people helped, name them specifically.",
+      "monthly": "A sample month to present something you have already practised, not something assembled the night before."
+    },
+    {
+      "id": "virgo",
+      "name": "Virgo",
+      "symbol": "♍",
+      "dates": "Aug 23 – Sep 22",
+      "element": "Earth",
+      "modality": "Mutable",
+      "description": "Virgo is associated with discernment, craft, and the wish to be useful. Critique is a tool. It is not a sentence passed on a temperament.",
+      "daily": "Improve one small process and leave the rest of the list alone. Completeness is not the same as worth.",
+      "weekly": "The sample week is for careful work and an ordinary routine. Precision is plenty. Perfection is optional.",
+      "monthly": "Offer the skill you actually have. A sample month favours help that stays within honest limits."
+    },
+    {
+      "id": "libra",
+      "name": "Libra",
+      "symbol": "♎",
+      "dates": "Sep 23 – Oct 22",
+      "element": "Air",
+      "modality": "Cardinal",
+      "description": "Libra is associated with balance, partnership, and an eye for what is fair. Agreement is not the same thing as disappearance.",
+      "daily": "Say the preference you have been polishing into politeness. Fairness includes you.",
+      "weekly": "The sample theme is one relationship conversation, with a clear request and enough time to listen.",
+      "monthly": "Agreements and collaboration are the sample focus. A decision taken late is still better than a borrowed opinion."
+    },
+    {
+      "id": "scorpio",
+      "name": "Scorpio",
+      "symbol": "♏",
+      "dates": "Oct 23 – Nov 21",
+      "element": "Water",
+      "modality": "Fixed",
+      "description": "Scorpio is associated with depth, privacy, and emotional courage. Intensity is not the same thing as doom, and a chart is not a threat.",
+      "daily": "The illustrative note is restraint. Not every insight has to be spoken on the day it arrives.",
+      "weekly": "Research and private reckoning are sample themes. Avoid an all-or-nothing conclusion while the facts are still arriving.",
+      "monthly": "A useful sample month for closing a matter that has lingered: a conversation, a debt of attention, or a habit."
+    },
+    {
+      "id": "sagittarius",
+      "name": "Sagittarius",
+      "symbol": "♐",
+      "dates": "Nov 22 – Dec 21",
+      "element": "Fire",
+      "modality": "Mutable",
+      "description": "Sagittarius is associated with meaning, teachers, and wide horizons. Optimism still needs a map.",
+      "daily": "Learn one thing from a person who disagrees with you. The sample note is curiosity without the speech.",
+      "weekly": "Study, travel plans, and belief are the sample themes. Keep any new promise small enough to keep.",
+      "monthly": "Aim the month at a question you actually care about. Breadth without a question becomes restlessness."
+    },
+    {
+      "id": "capricorn",
+      "name": "Capricorn",
+      "symbol": "♑",
+      "dates": "Dec 22 – Jan 19",
+      "element": "Earth",
+      "modality": "Cardinal",
+      "description": "Capricorn is associated with duty, structure, and long horizons. Ambition can be quiet and still be serious.",
+      "daily": "Do the next necessary thing. The sample note leaves reputation to catch up on its own.",
+      "weekly": "Work and responsibility are the sample themes. A boundary around the work is part of doing it.",
+      "monthly": "Build one durable system: a schedule, a saving, or a skill practised on ordinary days."
+    },
+    {
+      "id": "aquarius",
+      "name": "Aquarius",
+      "symbol": "♒",
+      "dates": "Jan 20 – Feb 18",
+      "element": "Air",
+      "modality": "Fixed",
+      "description": "Aquarius is associated with independence, ideas, and the wider group. Distance is not the same thing as clarity.",
+      "daily": "Include someone in the thought you were going to solve alone. The illustrative theme is company, not compromise.",
+      "weekly": "Friends, community, and future plans are sample themes. An ideal lands better when it has a practical first step.",
+      "monthly": "A sample month for contributing to a shared effort without needing to redesign all of it first."
+    },
+    {
+      "id": "pisces",
+      "name": "Pisces",
+      "symbol": "♓",
+      "dates": "Feb 19 – Mar 20",
+      "element": "Water",
+      "modality": "Mutable",
+      "description": "Pisces is associated with imagination, compassion, and porous boundaries. Sensitivity is a gift that still needs a shore.",
+      "daily": "Rest is a sufficient theme. Art, prayer, or quiet is enough. You do not have to solve someone else's day.",
+      "weekly": "Finish a gentle creative task, and decline one demand that is not yours. Both belong in the sample week.",
+      "monthly": "Compassion with a limit. The sample month favours a spiritual practice that is ordinary and repeatable."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "heading": "A Journey Guided by Knowledge and Faith.",
+  "lede": "These milestones are editable sample entries. Replace each period and description with his actual story. No date or accomplishment below is a claimed fact.",
+  "milestones": [
+    {
+      "id": "early-interest",
+      "period": "[PERIOD]",
+      "title": "An early interest in astrology",
+      "description": "Describe how the interest began: a family practice, a teacher, an almanac, or a question that would not go away. Keep the details that are true to his life."
+    },
+    {
+      "id": "traditional-learning",
+      "period": "[PERIOD]",
+      "title": "Learning traditional astrology",
+      "description": "Note the lineage, language, and texts he actually studied. Name a teacher only with permission, and only if that person was truly his teacher."
+    },
+    {
+      "id": "study-and-practice",
+      "period": "[PERIOD]",
+      "title": "Years of study and practice",
+      "description": "This is the long middle: charts read slowly, mistakes corrected, and the habit of explaining a placement in plain words. Replace this with what those years were like for him."
+    },
+    {
+      "id": "consultations-begin",
+      "period": "[PERIOD]",
+      "title": "Beginning consultations",
+      "description": "Record when he began sitting with people beyond study, and what kind of questions those first consultations held. Do not invent a count of clients."
+    },
+    {
+      "id": "professional-milestones",
+      "period": "[PERIOD]",
+      "title": "Professional milestones",
+      "description": "Add only milestones you can point to: a talk given, a class taught, a publication, a community that knows his work. Leave this entry until you have one."
+    },
+    {
+      "id": "present-work",
+      "period": "Present",
+      "title": "Current work and vision",
+      "description": "Describe the practice as it is now, and the standard he wants the next years of consultations to keep: clarity, privacy, and fidelity to the tradition he follows."
+    }
+  ]
+}

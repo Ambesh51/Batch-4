@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "A quiet consultation",
+    "category": "Consultation",
+    "imageUrl": "/images/gallery/consultation.svg",
+    "caption": "Placeholder. Replace with a photograph from a consultation only if you have permission to share it.",
+    "alt": "Illustrated placeholder of a consultation setting",
+    "showInSlider": true
+  },
+  {
+    "id": 2,
+    "title": "At study",
+    "category": "Personal",
+    "imageUrl": "/images/gallery/study.svg",
+    "caption": "Placeholder for a personal photograph. Add the file under public/images and update imageUrl.",
+    "alt": "Illustrated placeholder of a study and books",
+    "showInSlider": true
+  },
+  {
+    "id": 3,
+    "title": "An evening gathering",
+    "category": "Religious Events",
+    "imageUrl": "/images/gallery/gathering.svg",
+    "caption": "Placeholder for a religious or community event. Use a photograph that is yours to publish.",
+    "alt": "Illustrated placeholder of a lamp and an evening gathering",
+    "showInSlider": true
+  },
+  {
+    "id": 4,
+    "title": "A seminar afternoon",
+    "category": "Seminars",
+    "imageUrl": "/images/gallery/seminar.svg",
+    "caption": "Placeholder for a class or seminar. Replace the title with the real occasion.",
+    "alt": "Illustrated placeholder of a seminar",
+    "showInSlider": true
+  },
+  {
+    "id": 5,
+    "title": "A public conversation",
+    "category": "Public Appearances",
+    "imageUrl": "/images/gallery/appearance.svg",
+    "caption": "Placeholder for a talk or public appearance.",
+    "alt": "Illustrated placeholder of a public talk",
+    "showInSlider": true
+  },
+  {
+    "id": 6,
+    "title": "Recognition",
+    "category": "Awards",
+    "imageUrl": "/images/gallery/recognition.svg",
+    "caption": "Placeholder. Add a photograph only for a recognition that actually took place.",
+    "alt": "Illustrated placeholder of a medal",
+    "showInSlider": true
+  },
+  {
+    "id": 7,
+    "title": "Notes and a chart",
+    "category": "Personal",
+    "imageUrl": "/images/gallery/chart.svg",
+    "caption": "Placeholder for a working photograph: a chart, a desk, a day of study.",
+    "alt": "Illustrated placeholder of a natal chart",
+    "showInSlider": false
+  },
+  {
+    "id": 8,
+    "title": "The night sky",
+    "category": "Personal",
+    "imageUrl": "/images/gallery/sky.svg",
+    "caption": "A decorative placeholder until a personal photograph is added.",
+    "alt": "Illustrated night sky with a thin planetary ring",
+    "showInSlider": true
+  }
+]

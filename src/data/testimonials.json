@@ -1,0 +1,41 @@
+{
+  "notice": "Sample quotations for the layout. These are not reviews from real clients. Do not present them as verified feedback. Replace each entry with a real client's words, used with permission, and set verified to true only then. Star ratings appear only on verified entries.",
+  "items": [
+    {
+      "id": 1,
+      "quote": "I came with a list of questions and left with the chart explained in language I could repeat to my family. Nothing was rushed, and nothing was dressed up as a certainty.",
+      "name": "Sample Client A",
+      "city": "Sample City",
+      "image": "",
+      "rating": null,
+      "verified": false
+    },
+    {
+      "id": 2,
+      "quote": "The consultation was quiet and specific. I was told what the tradition suggests, and also what it does not decide for me. That honesty is what I would want from a reading.",
+      "name": "Sample Client B",
+      "city": "Sample City",
+      "image": "",
+      "rating": null,
+      "verified": false
+    },
+    {
+      "id": 3,
+      "quote": "We had come for a marriage discussion. Both charts were explained with patience, without pressure on either family and without treating the matching as a verdict.",
+      "name": "Sample Client C",
+      "city": "Sample City",
+      "image": "",
+      "rating": null,
+      "verified": false
+    },
+    {
+      "id": 4,
+      "quote": "I appreciated that uncertainty about my birth time was discussed openly, instead of being ignored so the reading could sound more precise than it was.",
+      "name": "Sample Client D",
+      "city": "Sample City",
+      "image": "",
+      "rating": null,
+      "verified": false
+    }
+  ]
+}
