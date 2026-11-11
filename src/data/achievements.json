@@ -1,0 +1,103 @@
+{
+  "notice": "Nothing in this section is a verified claim. The figures and entries are placeholders. Publish a number, certificate, award, or event only after you replace the sample with a fact you can stand behind.",
+  "stats": [
+    {
+      "id": "experience",
+      "value": "—",
+      "label": "Years of Experience",
+      "placeholder": "[YEARS_OF_EXPERIENCE]"
+    },
+    {
+      "id": "consultations",
+      "value": "—",
+      "label": "Consultations Provided",
+      "placeholder": "[NUMBER_OF_CONSULTATIONS]"
+    },
+    {
+      "id": "specializations",
+      "value": "—",
+      "label": "Astrology Specializations",
+      "placeholder": "[NUMBER_OF_SPECIALIZATIONS]"
+    },
+    {
+      "id": "learning",
+      "value": "—",
+      "label": "Years of Learning and Research",
+      "placeholder": "[YEARS_OF_LEARNING]"
+    }
+  ],
+  "groups": [
+    {
+      "id": "certifications",
+      "title": "Certifications",
+      "icon": "GraduationCap",
+      "items": [
+        {
+          "title": "[CERTIFICATION OR DIPLOMA]",
+          "detail": "[Institution] · [Year]",
+          "placeholder": true
+        }
+      ]
+    },
+    {
+      "id": "awards",
+      "title": "Awards",
+      "icon": "Award",
+      "items": [
+        {
+          "title": "[AWARD NAME]",
+          "detail": "[Organisation] · [Year]",
+          "placeholder": true
+        }
+      ]
+    },
+    {
+      "id": "recognitions",
+      "title": "Recognitions",
+      "icon": "Star",
+      "items": [
+        {
+          "title": "[RECOGNITION]",
+          "detail": "[Occasion or community] · [Year]",
+          "placeholder": true
+        }
+      ]
+    },
+    {
+      "id": "publications",
+      "title": "Publications",
+      "icon": "Library",
+      "items": [
+        {
+          "title": "[TITLE OF ARTICLE OR BOOK]",
+          "detail": "[Publication] · [Year]",
+          "placeholder": true
+        }
+      ]
+    },
+    {
+      "id": "seminars",
+      "title": "Seminars",
+      "icon": "Mic",
+      "items": [
+        {
+          "title": "[SEMINAR OR TALK TITLE]",
+          "detail": "[Venue] · [Year]",
+          "placeholder": true
+        }
+      ]
+    },
+    {
+      "id": "events",
+      "title": "Important events",
+      "icon": "Calendar",
+      "items": [
+        {
+          "title": "[EVENT]",
+          "detail": "[Place] · [Year]",
+          "placeholder": true
+        }
+      ]
+    }
+  ]
+}

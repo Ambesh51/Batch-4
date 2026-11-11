@@ -1,0 +1,82 @@
+[
+  {
+    "id": "vedic-consultation",
+    "icon": "Sun",
+    "name": "Vedic Astrology Consultation",
+    "summary": "A private reading of the birth chart in the Vedic tradition, shaped around the questions you bring.",
+    "detail": "The consultation uses the sidereal chart, houses, and planetary periods as classical Jyotish describes them. The hour is spent on your questions, with each placement explained in ordinary language. It is a conversation, not a verdict, and it is not medical, legal, or financial advice.",
+    "prepare": "Bring the date, time, and place of birth. If the birth time is uncertain, say so."
+  },
+  {
+    "id": "kundli-analysis",
+    "icon": "Orbit",
+    "name": "Kundli Analysis",
+    "summary": "A structured look at the natal chart: signs, houses, and the relationships between planets.",
+    "detail": "A kundli records the sky at birth in the form used by Vedic astrologers. This sitting walks through that diagram, names the major patterns, and connects them only to the topics you want to discuss. You are welcome to ask what each house refers to before moving on.",
+    "prepare": "The birth date, time, and place are needed to draw the chart."
+  },
+  {
+    "id": "birth-chart",
+    "icon": "Moon",
+    "name": "Birth Chart Reading",
+    "summary": "An unhurried reading of temperament, cycles, and the themes the natal chart is traditionally said to describe.",
+    "detail": "The reading starts from the whole chart rather than a sun sign. It can speak to character and timing as the tradition frames them, and it leaves room for the circumstances of your actual life. Where the record of birth is incomplete, the limits of the reading are stated plainly.",
+    "prepare": "Exact birth time makes a fuller chart possible. An approximate time can still begin a careful conversation."
+  },
+  {
+    "id": "marriage-compatibility",
+    "icon": "HeartHandshake",
+    "name": "Marriage Compatibility",
+    "summary": "A traditional matching conversation for two charts, including the areas families often ask about.",
+    "detail": "Compatibility work compares two natal charts in the classical manner and explains what the comparison is understood to show. It is a discussion for the people involved, not a guarantee of a marriage, and not a reason to insult either person. Both charts deserve the same care.",
+    "prepare": "Bring accurate birth details for both people, and the questions the family actually wants addressed."
+  },
+  {
+    "id": "career-guidance",
+    "icon": "Briefcase",
+    "name": "Career Guidance",
+    "summary": "A chart conversation focused on work, study, and the timing questions around them.",
+    "detail": "The sitting looks at the houses and periods traditionally associated with livelihood and learning, then talks through the practical choices already in front of you. Astrology here is a lens, not a job offer and not a promise of a result.",
+    "prepare": "Come with the decision you are actually weighing, as well as the birth details."
+  },
+  {
+    "id": "relationship-guidance",
+    "icon": "Users",
+    "name": "Relationship Guidance",
+    "summary": "A discreet conversation about partnership, family, and the way a chart is read alongside real relationships.",
+    "detail": "Relationship questions are handled privately and without spectacle. The chart may be used to talk about temperament and timing. It is not used to police anyone, and it does not replace counsel from the people whose lives are involved.",
+    "prepare": "Share only the birth details you have permission to share."
+  },
+  {
+    "id": "horoscope-analysis",
+    "icon": "Sparkles",
+    "name": "Horoscope Analysis",
+    "summary": "A look at current planetary periods as they are described for an individual chart, not a generic sun sign.",
+    "detail": "Popular sun-sign horoscopes are a different, much thinner form. This service reads transits and dasha periods against the person's own chart and explains what the tradition associates with that season of life. The notes elsewhere on this website are illustrative samples, not this service.",
+    "prepare": "A stored birth chart, or the details needed to draw one, is required."
+  },
+  {
+    "id": "numerology",
+    "icon": "Hash",
+    "name": "Numerology",
+    "summary": "A separate, number-based consultation for anyone who wants that lens beside, or instead of, a chart reading.",
+    "detail": "Numerology is not the same discipline as Vedic astrology. If you ask for it, it is offered as its own conversation and labelled as such. Replace this description if numerology is not part of the practice.",
+    "prepare": "The usual starting point is the full date of birth and the name you want considered."
+  },
+  {
+    "id": "dosha-analysis",
+    "icon": "Compass",
+    "name": "Planetary Dosha Analysis",
+    "summary": "A clear explanation of classical dosha combinations when they appear, without turning a chart into a threat.",
+    "detail": "Doshas are technical combinations described in Jyotish. If one is present, it is explained: what texts associate with it, what is often misunderstood, and which traditional remedies are discussed. A dosha is not a curse, and no remedy is presented as a guaranteed outcome.",
+    "prepare": "Birth date, time, and place are needed before any dosha can be discussed responsibly."
+  },
+  {
+    "id": "personalized-consultation",
+    "icon": "Gem",
+    "name": "Personalized Astrology Consultation",
+    "summary": "A longer sitting arranged around one person's questions, with time enough to go slowly.",
+    "detail": "Choose this when the question needs more than a single topic. The sitting can move across career, family, and timing, as long as the ground is the same chart and the same standard of explanation. Follow-up questions are part of the hour, not an interruption.",
+    "prepare": "Write down the two or three questions that matter most, and bring the birth details."
+  }
+]

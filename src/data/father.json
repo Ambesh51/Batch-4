@@ -1,0 +1,87 @@
+{
+  "brandName": "[WEBSITE_NAME]",
+  "name": "[FATHER_NAME]",
+  "title": "Vedic Astrologer",
+  "experience": "[YEARS_OF_EXPERIENCE]",
+  "city": "[CITY]",
+  "languages": ["[LANGUAGE]"],
+  "profileImage": "/images/father/portrait.svg",
+  "editorialImage": "/images/father/editorial.svg",
+  "coverImage": "/images/father/cover.svg",
+  "portraitCaption": "Placeholder portrait. Replace profileImage and editorialImage with photographs.",
+  "badge": "Welcome to the World of Astrology.",
+  "heroHeading": "Discover the Wisdom of the Stars, Understand Your Life's Journey.",
+  "heroIntro": "A consultation with [FATHER_NAME] is an unhurried conversation about the birth chart: what the Vedic tradition describes, and how that description meets the questions you are living with now.",
+  "introHeading": "Meet the Astrologer Behind the Wisdom.",
+  "introduction": "[FATHER_NAME] is a Vedic astrologer. His work is with one person, and one chart, at a time. The aim is to explain a classical system in language that can be followed without special training, and to leave the decisions where they belong: with the person who asked.",
+  "passion": "Astrology, for him, is a long study rather than a performance. The interest is in the grammar of the chart — signs, houses, and planetary periods — and in the person who has come with a real question.",
+  "philosophy": "A chart is a language, not a finished sentence. It can describe tendencies and timings as the tradition understands them. It does not replace a person's judgment, and it is not a substitute for medical, legal, or financial advice.",
+  "approach": "Consultations begin with listening. The reading stays with the questions that were brought into the room, and the explanation is paced so it can be repeated later to a spouse, a parent, or to oneself.",
+  "commitment": "He holds to classical Vedic methods: the sidereal zodiac, the natal chart, and the dasha periods of that lineage. Replace this paragraph with his own account of the teachers, texts, and years of practice that shaped the work. No qualification is claimed by this sample text.",
+  "extended": [
+    "People come for many reasons. A marriage conversation. A question about work or study. A difficult year that needs a frame. The task is to keep the discussion specific, respectful, and free of fear.",
+    "For a birth-chart sitting, the date, time, and place of birth are the usual starting point. Where the birth time is uncertain, that uncertainty is part of the conversation. It is not something to paper over.",
+    "Replace these paragraphs with stories and principles that are actually his. The tone of the site can stay, but the facts should be his alone."
+  ],
+  "footerIntro": "A personal practice in Vedic astrology. Consultations are private conversations about the birth chart, offered with patience and without spectacle.",
+  "cta": {
+    "book": "Book a Consultation",
+    "journey": "Explore My Journey",
+    "readMore": "Read More",
+    "readLess": "Show Less",
+    "learnMore": "Learn More",
+    "bookShort": "Book Consultation"
+  },
+  "whyChoose": {
+    "title": "Why People Trust My Guidance",
+    "lede": "Sample wording for the qualities of a consultation. Edit each point so it describes the way [FATHER_NAME] actually works.",
+    "points": [
+      {
+        "icon": "ScrollText",
+        "title": "Traditional astrology knowledge",
+        "text": "Readings stay with classical Vedic methods, and the technique being used is named rather than mixed in silently with other systems."
+      },
+      {
+        "icon": "User",
+        "title": "Personal attention",
+        "text": "Each sitting is arranged for one person or one family question. The chart is read for that conversation, not from a generic script."
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Detailed explanations",
+        "text": "Placements and periods are explained in ordinary language, with room to ask what a word means before the reading moves on."
+      },
+      {
+        "icon": "Shield",
+        "title": "Confidential consultations",
+        "text": "What is shared in a consultation is private. Family matters, dates of birth, and personal questions are not material for publicity."
+      },
+      {
+        "icon": "Languages",
+        "title": "Easy-to-understand guidance",
+        "text": "The point of the hour is that you leave able to retell the explanation. Jargon is translated, not used as decoration."
+      },
+      {
+        "icon": "HeartHandshake",
+        "title": "Respectful and patient communication",
+        "text": "Questions are welcome, including disagreement. A consultation is a conversation between adults, conducted without pressure or fear."
+      }
+    ]
+  },
+  "contact": {
+    "phone": "[PHONE_NUMBER]",
+    "whatsapp": "[WHATSAPP_NUMBER]",
+    "email": "[EMAIL_ADDRESS]",
+    "address": "[CONSULTATION_ADDRESS]",
+    "hours": "[CONSULTATION_HOURS]",
+    "fee": "[CONSULTATION_FEE]",
+    "note": "Update these details in father.json before sharing the site. The form confirms on this page only. It does not deliver a message until you connect a form service of your own.",
+    "prepare": "For a birth-chart consultation, keep the date, time, and place of birth nearby. If the time is approximate or unknown, say so at the start.",
+    "whatsappGreeting": "Namaste. I would like to enquire about a consultation."
+  },
+  "social": {
+    "instagram": "",
+    "youtube": ""
+  },
+  "mediaNote": "Photographs are placeholders. Add image files under public/images and point imageUrl, profileImage, or editorialImage at them."
+}
